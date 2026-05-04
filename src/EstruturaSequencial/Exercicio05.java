@@ -16,5 +16,7 @@ public class Exercicio05 {
         double totalAPagar = (double)qtdPeca * valPeca;
 
         System.out.printf("VALOR A PAGAR: R$ %.2f %n", totalAPagar);
+
+        sc.close();
     }
 }

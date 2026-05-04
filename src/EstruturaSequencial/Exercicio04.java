@@ -17,5 +17,7 @@ public class Exercicio04 {
 
         System.out.printf("NUMBER = %d %n", id);
         System.out.printf("SALARY = U$%.2f", salario);
+
+        sc.close();
     }
 }

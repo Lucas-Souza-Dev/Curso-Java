@@ -18,5 +18,7 @@ public class Exercicio02 {
         double area = 3.14159 * Math.pow(raio,2);
 
         System.out.printf("Area = %.4f %n", area);
+
+        sc.close();
     }
 }
