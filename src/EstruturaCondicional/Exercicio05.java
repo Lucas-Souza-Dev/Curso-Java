@@ -41,5 +41,6 @@ public class Exercicio05 {
         double valTotal = qtd * preco;
         System.out.printf("Total: R$ %.2f", valTotal);
 
+        sc.close();
     }
 }

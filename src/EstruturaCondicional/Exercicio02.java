@@ -14,5 +14,7 @@ public class Exercicio02 {
         }else {
             System.out.println("IMPAR");
         }
+
+        sc.close();
     }
 }

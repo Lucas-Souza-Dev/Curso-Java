@@ -20,5 +20,6 @@ public class Exercicio06 {
         }else {
             System.out.println("Fora do Valor!");
         }
+        sc.close();
     }
 }

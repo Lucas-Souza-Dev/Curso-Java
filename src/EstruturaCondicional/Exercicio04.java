@@ -16,5 +16,7 @@ public class Exercicio04 {
             duracao = inicio + fim;
         }
         System.out.printf("O JOGO DUROU %d HORA(S)",duracao);
+
+        sc.close();
     }
 }

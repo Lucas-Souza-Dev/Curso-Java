@@ -28,6 +28,7 @@ public class Exercicio07 {
             } else {
                 System.out.println("Eixo X");
             }
+        sc.close();
     }
 }
 

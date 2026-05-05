@@ -25,5 +25,7 @@ public class Exercicio08 {
         }else {
             System.out.println("Isento");
         }
+
+        sc.close();
     }
 }

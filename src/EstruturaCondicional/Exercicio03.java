@@ -15,5 +15,7 @@ public class Exercicio03 {
         }else{
             System.out.println("Não São Multiplos.");
         }
+
+        sc.close();
     }
 }
