@@ -1,4 +1,4 @@
-package Secao10MemoriaArraysEListas.Exerciicos.Exercicio03;
+package Secao10MemoriaArraysEListas.Exercicios.Exercicio03;
 
 
 public class Pessoa {

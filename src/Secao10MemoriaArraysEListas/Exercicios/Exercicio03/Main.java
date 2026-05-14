@@ -1,9 +1,7 @@
-package Secao10MemoriaArraysEListas.Exerciicos.Exercicio03;
+package Secao10MemoriaArraysEListas.Exercicios.Exercicio03;
 
 import java.util.Locale;
 import java.util.Scanner;
-
-import Secao10MemoriaArraysEListas.Exerciicos.Exercicio03.Pessoa;
 
 public class Main {
     public static void main(String[] args) {

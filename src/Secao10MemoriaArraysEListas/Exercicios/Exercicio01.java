@@ -1,4 +1,4 @@
-package Secao10MemoriaArraysEListas.Exerciicos;
+package Secao10MemoriaArraysEListas.Exercicios;
 
 import java.util.Locale;
 import java.util.Scanner;

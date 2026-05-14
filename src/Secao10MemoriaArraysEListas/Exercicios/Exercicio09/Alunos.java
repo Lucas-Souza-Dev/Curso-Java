@@ -1,4 +1,4 @@
-package Secao10MemoriaArraysEListas.Exerciicos.Exercicio09;
+package Secao10MemoriaArraysEListas.Exercicios.Exercicio09;
 
 public class Alunos {
     private String nome;

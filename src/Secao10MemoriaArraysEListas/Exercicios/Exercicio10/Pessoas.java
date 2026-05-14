@@ -1,4 +1,4 @@
-package Secao10MemoriaArraysEListas.Exerciicos.Exercicio10;
+package Secao10MemoriaArraysEListas.Exercicios.Exercicio10;
 
 public class Pessoas {
     public double altura;
