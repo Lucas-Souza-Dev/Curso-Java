@@ -1,4 +1,4 @@
-package Secao15Arquivos.application.Exercicio.entities;
+package Secao15Arquivos.application.Exercicio01.entities;
 
 public class Item {
     private String name;
